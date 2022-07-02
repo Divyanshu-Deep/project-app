@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <div style={{ fontFamily: 'sans-serif', fontSize:"30px", height: 50}}>
-        Daily News
+        Daily News Updates
       </div>
     <div style={{display:"flex" , justifyContent:"space-evenly" , position:'relative', marginTop:"5px", marginLeft:"5px"}}>
     <span className='search'>
